@@ -1,1 +1,2 @@
 This is local build file
+This is local test build file
